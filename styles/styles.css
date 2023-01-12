@@ -1,0 +1,32 @@
+body {
+    background-color: white;
+}
+
+hr {
+    width: 50%;
+}
+
+.mainLine {
+    width: 100%;
+}
+
+.customColColor {
+    background-color: lightgray;
+}
+
+.customCol {
+    margin-right: 3rem;
+    padding: 1rem 0 21rem 2rem;
+}
+
+.rightColumn {
+    padding-left: 0;
+    margin-left: 0;
+    margin-right: 2rem;
+}
+
+.heading {
+    margin-top: 2rem;
+    line-height: 0.2rem;
+    font-size: 1.2rem;
+}

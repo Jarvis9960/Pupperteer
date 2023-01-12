@@ -1,0 +1,51 @@
+{
+    "title": "Resume",
+    "name": "Ankit Fukte",
+    "contact": {
+        "Address": "Maharastra(Nagpur), India",
+        "Phone": "+91 8975141294",
+        "Email": "ankitfukte11@gmail.com",
+        "LinkedIN": "https://www.linkedin.com/in/ankit-fukte-709454166/"
+    },
+    "Languages": [
+        "Hindi - Fluent",
+        "Marathi - Fluent",
+        "English - Proficient"
+    ],
+    "hobbies": [
+        "Football",
+        "cricket",
+        "Web Development",
+        "Content-Writing"
+    ],
+    "summary": "Highly skilled and experienced web developer with a strong background in building responsive, user-friendly websites and applications. Proficient in a variety of programming languages and frameworks, including HTML, CSS, JavaScript, and Node.JS. Strong problem-solving and communication skills.",
+    "Skills": [
+        "Backend Developer |",
+        "Problem Solver |",
+        "Strong decision maker |",
+        "Creative design |",
+        "Service focused |",
+        "Innovative |"
+    ],
+    "Experience": {
+        "role": "Web Developer",
+        "duration": " - 09/2021  to  05/2022",
+        "company": "Luna Web Design ,",
+        "place": "Nagpur",
+        "summary": [
+            "Cooperate with designers to create clean interfaces and simple, intuitive interaction and experiences",
+            "work with senior developer to manage large, complex design projects for corporate clients.",
+            "Complete Detailed programming and development task for front end public and internal websites as well as challenging back-end server code"
+        ],
+        "Education": {
+            "Degree": "Bachelors of Computer Application - ",
+            "University": "Savitribai Phule University - ",
+            "Duration": "2018-2021",
+            "place": "Pune"
+        },
+        "Certification": {
+            "Certificate": "Mern - Stack",
+            "programmingLanguages": "JavaScript - Node.js - React.js - Java - MongoDB"
+        }
+    }
+}
